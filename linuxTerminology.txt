@@ -1,0 +1,9 @@
+-Linux 터미널 관련 용어 정리-
+
+CLI (Command Line Interface) : 명령어 기반의 텍스트 입출력 인터페이스
+터미널 : 서버의 로컬 또는 원격으로 접속할 수 있는 콘솔을 구현한 소프트웨어
+쉘 : 명령어를 해석하여 전달해주는 소프트웨어
+콘솔 : 서버의 로컬 장치에서 직접 명령어를 작성할 수 있는 입출력 장치
+tty (Tele Type Writer) : 콘솔 및 터미널 환경
+pty (Pseudo-Terminal) : 가상 터미널 환경
+pts (Pseudo-Terminal Slave) : 원격 터미널 환경
